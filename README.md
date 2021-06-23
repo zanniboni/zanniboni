@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zanniboni)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zanniboni&theme=dracula&hide_border=true)](https://git.io/streak-stats)
