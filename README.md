@@ -1,5 +1,5 @@
 <div class="center">
  
- <img  src="https://github-readme-stats.vercel.app/api?username=zanniboni&show_icons=true&theme=dracula&icon_color=6392DF">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=zanniboni&theme=dracula&hide_border=true">
 
  </div>
