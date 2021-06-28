@@ -7,6 +7,6 @@
 </div>
 <br>
 <div align="center">
-  <h1>Top languages</strong></h1>
+  <h1>Top languages</strong>  <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="25px"> </h1>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanniboni">
 </div>
