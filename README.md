@@ -6,7 +6,6 @@
 <img  src="http://github-readme-streak-stats.herokuapp.com?user=zanniboni&theme=dracula&hide_border=true">
 </div>
 <br>
-<hr>
 <div align="center">
   <h1>TOP Languages</strong></h1>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanniboni">
