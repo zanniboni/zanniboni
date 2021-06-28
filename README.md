@@ -7,6 +7,6 @@
 </div>
 <br>
 <div align="center">
-  <h1>TOP Languages</strong></h1>
+  <h1>Top languages</strong></h1>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanniboni">
 </div>
