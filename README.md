@@ -4,7 +4,6 @@
   <h3>Challenge - #100DaysOfCode - 05/05/21 - 13/08/21 <img src="https://media3.giphy.com/media/llQMjpdCwjdrVGzz1d/giphy.gif?cid=ecf05e47we1pvcnhli8m8654bio4cf0b2gf7oacvbnjht012&rid=giphy.gif&ct=s" width="25px"> </h3>
   <h3>Challenge - #365DaysOfCode - 05/05/21 - 05/05/22 <img src="https://media4.giphy.com/media/pf4xLNTrRFnYxJLYid/giphy.gif?cid=ecf05e47kv0v2xuo2qvu0duzfjsug6n7zph9f4yvhs3qv2zj&rid=giphy.gif&ct=s" width="25px"> </h3>
 
-  
 </div>
 
 ![Snake animation](https://github.com/zanniboni/zanniboni/blob/output/github-contribution-grid-snake.svg)
