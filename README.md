@@ -5,7 +5,6 @@
 
 </div>
 
-![Snake animation](https://github.com/zanniboni/zanniboni/blob/output/github-contribution-grid-snake.svg)
 <br>
  
   
